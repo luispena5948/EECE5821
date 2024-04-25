@@ -1,0 +1,4 @@
+https://www.spec.org/cpu2017/Docs/benchmarks/657.xz_s.html
+https://www.spec.org/cpu2017/Docs/benchmarks/619.lbm_s.html
+https://www.spec.org/cpu2017/Docs/benchmarks/605.mcf_s.html
+https://ieeexplore.ieee.org/document/7185279
